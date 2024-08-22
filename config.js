@@ -30,13 +30,22 @@ module.exports = {
   CAPTION: process.env.CAPTION || "ᴄʜᴜɢɪyᴀɴ",
   READ_MSG: toBool(process.env.READ_MSG),
   OWNER_NAME: process.env.OWNER_NAME || "ᴄʜᴜɢɪyᴀɴ ɢᴏᴅ",
-  BOT_NAME: process.env.BOT_NAME || "ᴄʜᴜɢɪyᴀɴ-ᴍᴅ",
+  BOT_NAME: process.env.BOT_NAME || "ᴄʜᴜɢɪyᴀɴ-ɢᴏᴅ",
   SUDO: process.env.SUDO || null,
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "ɢᴏᴅ ᴄʜᴜɢɪyᴀɴ,₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
-  AUDIO_DATA: process.env.AUDIO_DATA || "Eʏᴘᴢ;Iᴢᴜᴍɪ-ᴠ3;https://i.imgur.com/cO0TZJv.jpeg",
-  PROCESSNAME: process.env.PROCESSNAME || "ᴄʜᴜɢᴜyᴀɴ-ᴍᴅ",
-  AUTHOR: process.env.AUTHOR || "ᴄʜᴜɢɪyᴀɴ-ᴍᴅ",
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "                  ₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈
+
+
+ᵂⁱˡˡ ʸᵒᵘ ᵇᵉ ᵐʸ ᵛᵃˡᵉⁿᵗⁱⁿᵉ  🥺💗
+
+₊₉₁₉₇₇₈₅₃₅₃₂₈
+
+𝒅𝒐 𝒖 𝒍𝒐𝒗𝒆 𝒎𝒆 𝒇𝒐𝒓𝒆𝒗𝒆𝒓😩🍓
+
+*╭∩╮︶sɪɴɢʟᴇ・゜・。,₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
+  AUDIO_DATA: process.env.AUDIO_DATA || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈;ဢഷ്ຮങ്ങളു൭ຮ ര᭡ജകുമ᭡ര൲;https://telegra.ph/file/eb60aae00ba483a1b91da.jpg",
+  PROCESSNAME: process.env.PROCESSNAME || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
+  AUTHOR: process.env.AUTHOR || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
   DELETED_LOG_CHAT: process.env.DELETED_LOG_CHAT || false,
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
