@@ -33,16 +33,7 @@ module.exports = {
   BOT_NAME: process.env.BOT_NAME || "ᴄʜᴜɢɪyᴀɴ-ɢᴏᴅ",
   SUDO: process.env.SUDO || null,
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈
-
-
-ᵂⁱˡˡ ʸᵒᵘ ᵇᵉ ᵐʸ ᵛᵃˡᵉⁿᵗⁱⁿᵉ  🥺💗
-
-₊₉₁₉₇₇₈₅₃₅₃₂₈
-
-𝒅𝒐 𝒖 𝒍𝒐𝒗𝒆 𝒎𝒆 𝒇𝒐𝒓𝒆𝒗𝒆𝒓😩🍓
-
-*╭∩╮︶sɪɴɢʟᴇ・゜・。,₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈,₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
   AUDIO_DATA: process.env.AUDIO_DATA || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈;ဢഷ്ຮങ്ങളു൭ຮ ര᭡ജകുമ᭡ര൲;https://telegra.ph/file/eb60aae00ba483a1b91da.jpg",
   PROCESSNAME: process.env.PROCESSNAME || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
   AUTHOR: process.env.AUTHOR || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
