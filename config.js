@@ -33,7 +33,7 @@ module.exports = {
   BOT_NAME: process.env.BOT_NAME || "ᴄʜᴜɢɪyᴀɴ-ɢᴏᴅ",
   SUDO: process.env.SUDO || null,
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "                  ₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈
 
 
 ᵂⁱˡˡ ʸᵒᵘ ᵇᵉ ᵐʸ ᵛᵃˡᵉⁿᵗⁱⁿᵉ  🥺💗
